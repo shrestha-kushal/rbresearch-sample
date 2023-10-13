@@ -1,0 +1,8 @@
+*.exe
+include/
+lib/
+res/
+src/mongoose/
+**/*.o
+src/unity/*
+.vscode/
